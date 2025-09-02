@@ -3,11 +3,11 @@
 A simple web-based clock that displays the current time in India (IST). Built using HTML, CSS, and JavaScript, and hosted on GitHub Pages.
 🔗 Live Demo
 Click here to view the clock
-(Replace with your actual GitHub Pages link)
+(https://gauravkeshari80.github.io/Clock/)
 
 📌 Features
 - Real-time Indian Standard Time (IST) display
-- Responsive design for desktop and mobile
+- Responsive design for desktop 
 - Clean and minimal UI using custom CSS
 - Hosted on GitHub Pages for easy access
 
